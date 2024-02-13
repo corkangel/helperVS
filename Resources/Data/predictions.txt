@@ -1,0 +1,5829 @@
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 0 
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 0 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 2 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 0 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 0 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 0 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 3 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 3 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 2 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 5 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 9 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 2 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 0 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 2 
+Actual Value: 2 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 1 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 3 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 3 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 6 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 0 
+Actual Value: 4 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 1 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 0 
+
+Predicted Value: 3 
+Actual Value: 5 
+
+Predicted Value: 3 
+Actual Value: 3 
+Correct Prediction!
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 6 
+
+Predicted Value: 2 
+Actual Value: 1 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 1 
+Actual Value: 5 
+
+Predicted Value: 2 
+Actual Value: 4 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 2 
+
+Predicted Value: 1 
+Actual Value: 2 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 1 
+Actual Value: 7 
+
+Predicted Value: 0 
+Actual Value: 9 
+
+Predicted Value: 4 
+Actual Value: 5 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 1 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 4 
+Actual Value: 4 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 0 
+Actual Value: 0 
+Correct Prediction!
+
+Predicted Value: 3 
+Actual Value: 8 
+
+Predicted Value: 3 
+Actual Value: 9 
+
+Predicted Value: 2 
+Actual Value: 8 
+
+Accurate count: 435 
+Total count: 1797 
+Your accuracy is 0.242070 

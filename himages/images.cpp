@@ -71,7 +71,7 @@ public:
 
         inputs.resize(numImages);
         targets.resize(numImages);        
-        loadImages("Resources/Data/data_batch_1.bin", inputs, targets);
+        loadImages("../Resources/Data/data_batch_1.bin", inputs, targets);
     }
 };
 
@@ -87,7 +87,7 @@ int main(int, char**)
 
     matrix testImages(numImages);
     matrix testCategories(numImages);
-    loadImages("Resources/Data/test_batch.bin", testImages, testCategories);
+    loadImages("../Resources/Data/test_batch.bin", testImages, testCategories);
 
     renderWindow rw;
 

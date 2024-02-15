@@ -3,7 +3,7 @@
 renderWindow::renderWindow() 
     : window(sf::VideoMode(1100, 1100), "again", sf::Style::Close)
 {
-    font.loadFromFile("Resources/Fonts/arial.ttf");
+    font.loadFromFile("../Resources/Fonts/arial.ttf");
 
     titleStr.setFont(font);
 

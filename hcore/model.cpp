@@ -13,17 +13,44 @@ hhLayer::hhLayer(const int numNeurons, const int numInputs, const hhTaskOperatio
     errors.resize(numNeurons, 0.0f);
 }
 
+
+void hhLayer::InitializeWeights(const float avg, const float dist)
+{
+    // Create a random number generator
+    std::default_random_engine generator;
+    std::normal_distribution<float> distribution(avg, dist);
+
+    // Initialize weights
+    for (int i = 0; i < numNeurons; i++)
+    {
+        for (int j = 0; j < numInputs; j++)
+        {
+            weights[i][j] = distribution(generator);
+        }
+        biases[i] = distribution(generator);
+    }
+}
+
 void hhLayer::NormalizeWeights()
 {
     column sums(numNeurons, 0.0f);
     std::transform(weights.begin(), weights.end(), sums.begin(), [](const column& row) { return std::accumulate(row.begin(), row.end(), 0.0f); });
-    //const float totalSum = std::accumulate(sums.begin(), sums.end(), 0.0f);
     for (int i = 0; i < numNeurons; i++)
     {
         for (int j = 0; j < numInputs; j++)
         {
             weights[i][j] /= sums[i];
         }
+    }
+}
+
+void hhLayer::NormalizeValues()
+{
+    float sum = std::accumulate(activationValue.begin(), activationValue.end(), 0.0f);
+    for (int i = 0; i < numNeurons; i++)
+    {
+        activationValue[i] /= sum;
+        assert(!isnan(activationValue[i]));
     }
 }
 
@@ -60,27 +87,18 @@ void hhDenseLayer::UpdateWeightsAndBiases(const hhLayer& previous, float learnin
         }
         biases[n] -= learningRate * errors[n];
     }
-    if (operation == hhTaskOperation::Normalize)
+    if ((operation & hhTaskOperation::NormalizeWeights) == hhTaskOperation::NormalizeWeights)
         NormalizeWeights();
+
+    if ((operation & hhTaskOperation::NormalizeValues) == hhTaskOperation::NormalizeValues)
+        NormalizeValues();
 }
 
 // ---------------------------- Sigmoid ----------------------------
 
 hhSigmoidLayer::hhSigmoidLayer(const int numNeurons, const int numInputs, const hhTaskOperation op) : hhDenseLayer(numNeurons, numInputs, op)
 {
-        // Create a random number generator
-    std::default_random_engine generator;
-    std::uniform_real_distribution<float> distribution(-1.0f, 1.0f);
-
-    // Initialize weights
-    for (int i = 0; i < numNeurons; i++) 
-    {
-        for (int j = 0; j < numInputs; j++) 
-        {
-            weights[i][j] = distribution(generator);
-        }
-        biases[i] = distribution(generator);
-    }
+    InitializeWeights(0.0f, 0.2f);
 }
 
 void hhSigmoidLayer::Forward(const column& input)
@@ -125,19 +143,7 @@ float hhSigmoidLayer::Backward(const hhLayer& previous, hhLayer* next, float lea
 
 hhReluLayer::hhReluLayer(const int numNeurons, const int numInputs, const hhTaskOperation op) : hhDenseLayer(numNeurons, numInputs, op)
 {
-    // Create a random number generator
-    std::default_random_engine generator;
-    std::uniform_real_distribution<float> distribution(-0.1f, 0.1f);
-
-    // Initialize weights
-    for (int n = 0; n < numNeurons; n++) 
-    {
-        for (int j = 0; j < numInputs; j++) 
-        {
-            weights[n][j] = distribution(generator);
-        }
-        biases[n] = distribution(generator);
-    }
+    InitializeWeights(0.0f, 0.2f);
 }
 
 void hhReluLayer::Forward(const column& input)
@@ -179,29 +185,23 @@ float hhReluLayer::Backward(const hhLayer& previous, hhLayer* next, float learni
 
 hhSoftmaxLayer::hhSoftmaxLayer(const int numNeurons, const int numInputs, const hhTaskOperation op) : hhDenseLayer(numNeurons, numInputs, op)
 {
+    InitializeWeights(0.0f, 0.2f);
 }
 
 void hhSoftmaxLayer::Forward(const column& input)
 {
-   const float maxInput  = *std::max_element(input.begin(), input.end());
-
-    std::vector<float> scores(input.size());
-    std::vector<float> output(input.size());
-    
-    float sum = 0.0f;
-    for (int i = 0; i < numNeurons; i++)
+    assert(input.size() == numInputs);
+    for (int n = 0; n < numNeurons; n++)
     {
-        std::transform(input.begin(), input.end(), weights[i].begin(), scores.begin(), std::multiplies<float>());
-        std::transform(scores.begin(), scores.end(), output.begin(), [maxInput](float x) { return exp(x - maxInput); });
-        activationValue[i] = std::accumulate(output.begin(), output.end(), 0.0f);
-        sum += activationValue[i];
-    }
+        float raw = std::inner_product(input.begin(), input.end(), weights[n].begin(), 0.0f) + biases[n];
+        raw = std::max(-20.0f, std::min(20.0f, raw));
+        assert(!isnan(raw) && !isinf(raw));
 
-    for (int i = 0; i < numNeurons; i++)
-    {
-        activationValue[i] /= sum;
-        assert(isnan(activationValue[i]) == false);
+        activationValue[n] = exp(raw);
+        assert(!isnan(activationValue[n]) && !isinf(activationValue[n]));
     }
+    NormalizeValues();
+
 }
 
 float hhSoftmaxLayer::Backward(const hhLayer& previous, hhLayer* next, float learningRate, const column& targets)

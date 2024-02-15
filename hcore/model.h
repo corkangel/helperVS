@@ -22,7 +22,9 @@ public:
     column biases;
     matrix weights;  
 
+    void InitializeWeights(const float avg, const float dist);
     void NormalizeWeights(); 
+    void NormalizeValues();
 };
 
 class hhInputLayer : public hhLayer

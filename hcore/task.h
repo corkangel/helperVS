@@ -11,11 +11,23 @@ enum class hhLayerType
     Softmax,
 };
 
-enum class hhTaskOperation
+enum class hhTaskOperation : int
 {
     Default,
-    Normalize
+    NormalizeWeights = 0x01,
+    NormalizeValues = 0x02,
 };
+
+inline hhTaskOperation operator|(hhTaskOperation a, hhTaskOperation b)
+{
+    return static_cast<hhTaskOperation>(static_cast<int>(a) | static_cast<int>(b));
+}
+
+inline hhTaskOperation operator&(hhTaskOperation a, hhTaskOperation b)
+{
+    return static_cast<hhTaskOperation>(static_cast<int>(a) & static_cast<int>(b));
+}
+
 
 struct hhTaskLayer
 {

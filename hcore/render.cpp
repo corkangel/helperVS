@@ -11,10 +11,12 @@ renderWindow::renderWindow()
     lossStr.setString("0");
     lossStr.setPosition(0,40);
 
+    genericStr.setFont(font);
+
     gradientStr.setFont(font);
 
-    rect.setSize(sf::Vector2f(8.0f, 8.0f));
-    rect.setFillColor(sf::Color::White);
+    gridRect.setSize(sf::Vector2f(8.0f, 8.0f));
+    gridRect.setFillColor(sf::Color::White);
 
     imageTexture.create(32,32);
     imageSprite.setPosition(40,160);
@@ -58,6 +60,21 @@ void renderWindow::DisplayImage(
     window.draw(imageSprite);
 }
 
+
+void renderWindow::DrawString(const char* text, int x, int y)
+{
+    genericStr.setString(text);
+    genericStr.setPosition(float(x), float(y));
+    window.draw(genericStr);
+}
+void renderWindow::DrawRect(const int x, const int y, const int w, const int h, const sf::Color& color)
+{
+    gridRect.setSize(sf::Vector2f(float(w), float(h)));
+    gridRect.setPosition(sf::Vector2f(float(x), float(y)));
+    gridRect.setFillColor(color);
+    window.draw(gridRect);
+}
+
 void renderWindow::DisplayGrid(
     const int gridSize,
     matrix& values)
@@ -76,10 +93,10 @@ void renderWindow::DisplayGrid(
             sf::Uint8 g = sf::Uint8(rgb[1] * 255);
             sf::Uint8 b = sf::Uint8(rgb[2] * 255);
 
-            rect.setPosition(sf::Vector2f(20 + x*10*1.0f, 100 + y*10*1.0f));
-            rect.setFillColor(sf::Color(r, g, b,  255));
+            gridRect.setPosition(sf::Vector2f(20 + x*10*1.0f, 100 + y*10*1.0f));
+            gridRect.setFillColor(sf::Color(r, g, b,  255));
 
-            window.draw(rect);
+            window.draw(gridRect);
         }
     }
 }

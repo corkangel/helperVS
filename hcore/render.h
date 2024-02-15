@@ -24,9 +24,10 @@ class renderWindow
       int x, 
       int y);
 
-    void DisplayGrid(
-      const int gridSize,
-      matrix& values);
+    void DisplayGrid(const int gridSize, matrix& values);
+
+    void DrawString(const char* text, int x, int y);
+    void DrawRect(const int x, const int y, const int w, const int h, const sf::Color& color);
 
     void EndDisplay();
     
@@ -37,10 +38,12 @@ class renderWindow
     sf::Text titleStr; 
     sf::Text lossStr; 
     sf::Text gradientStr; 
+    sf::Text genericStr;
 
     sf::Texture imageTexture;
     sf::Sprite imageSprite;
-     sf::Uint8* pixels;
+    sf::Uint8* pixels;
 
-    sf::RectangleShape rect;
+    sf::RectangleShape gridRect;
+    sf::RectangleShape genericRect;
 };

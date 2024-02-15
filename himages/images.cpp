@@ -60,13 +60,13 @@ public:
 
     void Configure(hhModel& model) override
     {
-        learningRate = 0.001f;
+        learningRate = 0.0001f;
         epochs = 1;
-        batchSize = 24;
+        batchSize = 32;
 
         AddLayer(hhLayerType::Input, imageArraySize);
-        AddLayer(hhLayerType::Relu, 200, hhTaskOperation::Normalize);
-        AddLayer(hhLayerType::Relu, 150, hhTaskOperation::Normalize);
+        AddLayer(hhLayerType::Relu, 200, hhTaskOperation::NormalizeWeights | hhTaskOperation::NormalizeValues);
+        AddLayer(hhLayerType::Relu, 150, hhTaskOperation::NormalizeWeights | hhTaskOperation::NormalizeValues);
         AddLayer(hhLayerType::Softmax, numCategories);
 
         inputs.resize(numImages);
@@ -75,6 +75,7 @@ public:
     }
 };
 
+const bool gDrawImages = false;
 
 int main(int, char**)
 {
@@ -92,67 +93,92 @@ int main(int, char**)
     renderWindow rw;
 
     // for rendering only.
-    //std::ifstream input("Resources/Data/test_batch.bin", std::ios::binary );
-    //std::vector<unsigned char> buffer(std::istreambuf_iterator<char>(input), {});
+    std::vector<unsigned char> drawBuffer;
+    if (1)
+    {
+        std::ifstream input = std::ifstream("../Resources/Data/test_batch.bin", std::ios::binary);
+        drawBuffer = std::vector<unsigned char>(std::istreambuf_iterator<char>(input), {});
+    }
 
     // stable random set of test indices
-    const int numTests = 32;    
+    const int numTests = 16;    
     std::array<int, numTests> testIds;
     for (int j=0; j< numTests; j++)
-    testIds[j] = rand() % numTests;
+    testIds[j] = rand() % numImages;
+    std::array<int, numTests> testedPredictions;
 
     float loss = 0;
     int trainingRuns = 0;
     bool running = 1;
     while (running)
     {
-        model.Train();
-
-        trainingRuns++;
-        if (0)
+        if (!gDrawImages)
         {
-            column predictions(numCategories);
+            model.Train();
 
-            int numCorrect = 0;
-
-            // calculate accuracy on a subset of test images
-            for (int t=0; t < numTests; t++)
+            trainingRuns++;
+            if (1)
             {
-                const int index = testIds[t];
+                column predictions(numCategories);
 
-                column predictions = model.Predict(testImages[index]);
-                
-                int predictedCategory = argmax(predictions);
-                int testCategory = argmax(testCategories[index]);
+                int numCorrect = 0;
 
-                if (predictedCategory == testCategory)
-                    numCorrect += 1;
+                // calculate accuracy on a subset of test images
+                for (int t = 0; t < numTests; t++)
+                {
+                    const int index = testIds[t];
 
+                    column predictions = model.Predict(testImages[index]);
+
+                    int predictedCategory = argmax(predictions);
+                    int testCategory = argmax(testCategories[index]);
+
+                    if (predictedCategory == testCategory)
+                        numCorrect += 1;
+
+                    testedPredictions[t] = predictedCategory;
+                }
+                loss = float(numCorrect) / numTests;
+                printf("loss = %f\n", loss);
             }
-            loss = float(numCorrect) / numTests;
         }
 
         rw.ProcessEvents(running);
-
         rw.BeginDisplay();
         rw.DisplayTitle(model.numEpochs, model.lastTrainError, "Images");
 
+        for (int t = 0; t < numTests; t++)
+        {
+            const int index = testIds[t];
+            const int iz = 1 + 1024 * 3;
+            unsigned char* r = &drawBuffer[iz * index + 1];
+            unsigned char* g = &drawBuffer[iz * index + 1 + (1024)];
+            unsigned char* b = &drawBuffer[iz * index + 1 + (1024) + (1024)];
+            rw.DisplayImage(&r[0], &g[0], &b[0], 40, 160 + t * 40);
 
+            char tmp[100];
+            snprintf(tmp, sizeof(tmp), "%d / %d  (pred/act) index: %d", testedPredictions[t], argmax(testCategories[testIds[t]]), testIds[t]);
+            rw.DrawString(tmp, 100, 160 + t * 40);
+            rw.DrawRect(90, 160 + t * 40, 10, 10, sf::Color::White);
+        }
 
-        // const int numImages = 20;
-        // for (int y=0; y < numImages; y++)
-        // {
-        //     for (int x=0; x < numImages; x++)
-        //     {
-        //         const int iz = 1 + 1024*3;
-        //         int o = y*numImages+x;
-        //         unsigned char *r = &buffer[iz*o + 1];
-        //         unsigned char *g = &buffer[iz*o + 1+(1024)];
-        //         unsigned char *b = &buffer[iz*o + 1+(1024)+(1024)];
-        //         rw.DisplayImage(&r[0], &g[0], &b[0], 20 + x*40, 160 + y*40);
-        //     }
-        // }
-        
+        if (gDrawImages)
+        {
+            const int numImages = 20;
+            for (int y = 0; y < numImages; y++)
+            {
+                for (int x = 0; x < numImages; x++)
+                {
+                    const int iz = 1 + 1024 * 3;
+                    int o = y * numImages + x;
+                    unsigned char* r = &drawBuffer[iz * o + 1];
+                    unsigned char* g = &drawBuffer[iz * o + 1 + (1024)];
+                    unsigned char* b = &drawBuffer[iz * o + 1 + (1024) + (1024)];
+                    rw.DisplayImage(&r[0], &g[0], &b[0], 20 + x * 40, 160 + y * 40);
+                }
+            }
+        }
+
         rw.EndDisplay();
     }
 }
